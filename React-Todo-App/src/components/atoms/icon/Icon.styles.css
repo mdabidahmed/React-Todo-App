@@ -1,0 +1,10 @@
+.nav-icon:hover {
+  color: yellow;
+}
+.active {
+  color: yellow !important;
+}
+.nav-icon {
+  color: #fff;
+  padding: 16px 0 16px 0;
+}

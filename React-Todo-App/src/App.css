@@ -1,0 +1,30 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+header {
+  background-color: #2b31a4;
+  padding: 20px;
+}
+
+.sidebar {
+  flex: 0 0 200px;
+  background-color: #d3d3d3;
+  padding: 20px;
+}
+
+aside {
+  background-color: #eaeaea;
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+}
