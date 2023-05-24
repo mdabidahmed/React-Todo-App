@@ -1,0 +1,20 @@
+.add-subcategory-section {
+  margin-top: 8px;
+  margin-bottom: 12px;
+}
+
+.sub-categories {
+  padding: 0 0 4px 0;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+
+h3 {
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
+  margin-top: 4px !important;
+  margin-bottom: 4px !important;
+}
+.sub-categories:hover {
+  color: #0d6efd;
+}

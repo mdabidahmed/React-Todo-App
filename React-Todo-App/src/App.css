@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
 body,
 html {
   height: 100%;
   margin: 0;
+  font-family: 'Roboto';
 }
 
 .container {
@@ -16,15 +18,23 @@ header {
 
 .sidebar {
   flex: 0 0 200px;
-  background-color: #d3d3d3;
+  background-color: #79b2f428;
   padding: 20px;
 }
 
 aside {
-  background-color: #eaeaea;
+  /* background-color: #eaeaea; */
 }
 
 main {
   flex: 1;
   padding: 20px;
 }
+
+/* .article-container {
+  display: flex;
+}
+.category-title,
+.category-list {
+  flex: 1;
+} */

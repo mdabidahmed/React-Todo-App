@@ -1,10 +1,6 @@
-.nav-icon:hover {
-  color: yellow;
-}
-.active {
-  color: yellow !important;
-}
-.nav-icon {
-  color: #fff;
-  padding: 16px 0 16px 0;
+.button-icon {
+  margin-right: 4px;
+  text-align: center;
+  font: size 16px;
+  margin-top: 10px !important;
 }
